@@ -2,7 +2,9 @@
 
 ---
 tittle: Learning GitHub Pages and Documentation
+
 description: Learning how to createdocumentation using Markdown and frontmatter.
+
 tags: 
  - GitHub
  - documentation
@@ -34,7 +36,9 @@ tags:
  '''y
  ---
  tittle: My Document
+ 
  description: This is my document.
+ 
  tags:
   - example
    - documentation
