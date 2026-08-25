@@ -1,7 +1,7 @@
 
 
 ---
-tittle: Learning GitHub Pages and Documentation
+title: Learning GitHub Pages and Documentation
 
 description: Learning how to createdocumentation using Markdown and frontmatter.
 
@@ -33,9 +33,9 @@ tags:
 
  For example: 
 
- '''y
+ '''YMLA
  ---
- tittle: My Document
+ title: My Document
  
  description: This is my document.
  
