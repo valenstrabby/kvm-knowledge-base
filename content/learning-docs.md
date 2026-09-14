@@ -1,13 +1,13 @@
 
 
 ---
-tittle: Learning GitHub Pages and Documentation
-description: Learning how to createdocumentation using Markdown and frontmatter.
-tags: 
- - GitHub
- - documentation
- - frontmatter
- --- 
+title: Learning GitHub Pages and Documentation
+description: Learning how to create documentation using Markdown and frontmatter.
+tags:
+  - GitHub
+  - documentation
+  - frontmatter
+---
 
  # Learning GitHub Pages and Documentation
 
@@ -31,9 +31,9 @@ tags:
 
  For example: 
 
- '''y
+ '''EXAMPLE
  ---
- tittle: My Document
+ title: My Document
  description: This is my document.
  tags:
   - example
