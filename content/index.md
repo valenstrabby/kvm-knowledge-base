@@ -7,10 +7,10 @@ Video games are a fun way to relax, explore new worlds, and challenge yourself. 
 
 ## Main Categories
 
-- [[content/Gaming History/index|Gaming History]]
-- [[content/Game Development/index|Game Development]] 
-- [[content/Gaming Culture/index|Gaming Culture]]
-- [[content/Genres/index|Genres]]
-- [[content/Platforms/index|Platforms]]
-- [[content/Popular Games/index|Popular Games]]
+- [[Gaming History|Gaming History]]
+- [[Game Development|Game Development]] 
+- [[Gaming Culture|Gaming Culture]]
+- [[Genres|Genres]]
+- [[Platforms|Platforms]]
+- [[Popular Games|Popular Games]]
 
